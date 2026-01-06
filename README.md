@@ -1,1 +1,1 @@
-# .github
+# Homework killer
